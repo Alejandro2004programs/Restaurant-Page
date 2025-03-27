@@ -2,7 +2,6 @@ body {
  display: flex;
  flex-direction: column;
  align-items: center;
- gap: 8px;
  font-family: Verdana, Arial, sans-serif;
 }
   
@@ -65,5 +64,20 @@ body {
   align-items: center;
 }
 
+/* menu.js styling */
 
+.menuContainer {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
 
+/* about.js styling */
+
+.aboutContainer {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
