@@ -1,3 +1,4 @@
 import "./styles.css";
+import {displayHomePage} from "./home.js";
 
-console.log("testing");
+displayHomePage;
